@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 07.09.2026
+1. On AI and private Earth observation in general: [The future of Earth observation: Private satellites and AI bring benefits but also pose risks](https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks) (*source: x, 2026*).
+
 ## Updates: 03.09.2026
 1. On the overall **utility of Graphics Processing Units (GPUs)** (*also includes explanations of what GPUs do*): [12 Things Your GPU Can Do Besides Play Games](https://www.bgr.com/2248404/things-gpu-can-do-besides-games/) (*source: BGR, 2026*).
    * "Those data center GPUs, fundamentally, aren't that special. They're just very powerful, and have lots of memory. Other than that, this is the same technology that's in your own computer."
