@@ -6,7 +6,8 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 07.09.2026
-1. On AI and private Earth observation in general: [The future of Earth observation: Private satellites and AI bring benefits but also pose risks](https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks) (*source: Space.com, 2026*).
+1. On **AI and private Earth observation** in general: [The future of Earth observation: Private satellites and AI bring benefits but also pose risks](https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks) (*source: Space.com, 2026*).
+2. On desktop ML: [Mac Studio Beats DGX Spark in local AI Tests with 1.2 TB/s Bandwidth](https://www.geeky-gadgets.com/mac-studio-vs-dgx-spark/) (*source: Geedky Gadgets, 2026*).
 
 ## Updates: 03.09.2026
 1. On the overall **utility of Graphics Processing Units (GPUs)** (*also includes explanations of what GPUs do*): [12 Things Your GPU Can Do Besides Play Games](https://www.bgr.com/2248404/things-gpu-can-do-besides-games/) (*source: BGR, 2026*).
