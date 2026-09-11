@@ -5,6 +5,11 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 11.09.2026
+1. On **AI hype**: Last night on CNN, NYU professor Scott Galloway indicated that the recent talk about rogue AI agents eventually causing doomsday could just be a product of the industry's hype machine: https://www.cnn.com/2026/09/10/us/video/ac360-scott-galloway-ai.
+
+<img width="1342" height="762" alt="image" src="https://github.com/user-attachments/assets/98b2e2fc-b0f6-46dc-812a-2a0297f0148c" />
+
 ## Updates: 07.09.2026
 1. On **AI and private Earth observation** in general: [The future of Earth observation: Private satellites and AI bring benefits but also pose risks](https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks) (*source: Space.com, 2026*).
 2. On desktop ML: [Mac Studio Beats DGX Spark in local AI Tests with 1.2 TB/s Bandwidth](https://www.geeky-gadgets.com/mac-studio-vs-dgx-spark/) (*source: Geedky Gadgets, 2026*).
