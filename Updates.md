@@ -8,6 +8,8 @@
 ## Updates: 12.09.2026
 1. Google's 2026 *Geo for Good* (G4G) Impact Summit is happening next week, from 15-17 September 2026. The agenda is [online](https://earthoutreachonair.withgoogle.com/events/geoforgood26-map) and hopefully, associated slides and materials will also become available.
 
+<img width="524" height="584" alt="image" src="https://github.com/user-attachments/assets/e780d965-201a-4aee-8950-8d2117eaf26b" />
+
 ## Updates: 11.09.2026
 1. On **AI hype**: Last night on CNN, NYU professor Scott Galloway indicated that the recent talk about rogue AI agents eventually causing doomsday could just be a product of the industry's hype machine: https://www.cnn.com/2026/09/10/us/video/ac360-scott-galloway-ai.
 
