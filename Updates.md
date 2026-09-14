@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 14.09.2026
-1. Esri released a second patch for ArcGIS Pro 3.7 (so 3.7.2) last week Thursday, 10 September 2026. See: https://support.esri.com/en-us/patches-updates/2026/arcgis-pro-3-7-patch-2-3-7-2-announcement.
+1. Esri released a second patch for ArcGIS Pro 3.7 (so 3.7.2) last week Thursday, 10 September 2026. See the announcement: https://support.esri.com/en-us/patches-updates/2026/arcgis-pro-3-7-patch-2-3-7-2-announcement. Also see the patch release notes: https://doc.esri.com/en/arcgis-pro/latest/get-started/release-notes.html.
 
 ## Updates: 12.09.2026
 1. Google's 2026 *Geo for Good* (G4G) Impact Summit is happening next week, from 15-17 September 2026. The agenda is [online](https://earthoutreachonair.withgoogle.com/events/geoforgood26-map) and hopefully, associated slides and materials will also become available.
