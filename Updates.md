@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 16.09.2026
+1. In terms of **AI in general**, the following recent *TechCrunch* article reviews what has worked and what has not: [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (*source: TechCrunch, 2026*).
+
 ## Updates: 14.09.2026
 1. Esri released a second patch for **ArcGIS Pro 3.7** (so 3.7.2) last week Thursday, 10 September 2026. See the announcement: https://support.esri.com/en-us/patches-updates/2026/arcgis-pro-3-7-patch-2-3-7-2-announcement. Also see the patch release notes: https://doc.esri.com/en/arcgis-pro/latest/get-started/release-notes.html.
 
