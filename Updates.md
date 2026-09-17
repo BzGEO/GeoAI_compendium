@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 17.09.2026
-1. The following is not GeoAI-specific, but it does speak to the ethical considerations regarding what is possible using modern Earth Observation data such as sensors that can essentially scan below forest canopies: [The ethical costs of remotely sensing tropical forest understories](https://www.nature.com/articles/s41559-026-03187-y) (*source: Nature, 2026*).
+1. The following is not GeoAI-specific, but it does speak to the **ethical considerations regarding what is possible using modern Earth Observation data** such as sensors that can essentially scan below forest canopies: [The ethical costs of remotely sensing tropical forest understories](https://www.nature.com/articles/s41559-026-03187-y) (*source: Nature, 2026*).
 
 ## Updates: 16.09.2026
 1. In terms of **AI in general**, the following recent *TechCrunch* article reviews what has worked and what has not: [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) (*source: TechCrunch, 2026*).
