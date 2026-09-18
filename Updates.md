@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 18.09.2026
-1. On **cognitive surrender** (also referred to **cognitive laziness**): [An M.I.T. Report Warns A.I. Is Causing ‘Cognitive Surrender.’ Universities Are in a Bind.](https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html) (*source: New York Times, 2026*).
+1. On **cognitive surrender** (also referred to **metacognitive laziness**): [An M.I.T. Report Warns A.I. Is Causing ‘Cognitive Surrender.’ Universities Are in a Bind.](https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html) (*source: New York Times, 2026*).
 
 ## Updates: 17.09.2026
 1. The following is not GeoAI-specific, but it does speak to the **ethical considerations regarding what is possible using modern Earth Observation data** such as sensors that can essentially scan below forest canopies: [The ethical costs of remotely sensing tropical forest understories](https://www.nature.com/articles/s41559-026-03187-y) (*source: Nature, 2026*).
@@ -364,7 +364,7 @@ A Single GPU Is All You Need for Self-Supervised Pretraining"](https://www.youtu
 1. On the topic of *embeddings*, in March 2026, Clark University, Cloud Native Geo, and Planet Labs co-hosted a meeting about best practices for satellite embeddings data, which also had participants from the Allen Institute for AI (Ai2), Esri, Earth Genome, Development Seed, Element 84, LGND, Wherobots, the University of Cambridge, and the University of Münster: https://www.cloudnativegeo.org/blog/2026/04/geo-embeddings-sprint-march-2026/. A new website (https://geoembeddings.org) was established, and an associated [Google Group](https://groups.google.com/a/cloudnativegeo.org/g/geo-embeddings-community) was set up. There is also an associated GitHub repo: https://github.com/geo-embeddings.
 
 ## Updates: 04.04.2026
-1. More on 'meta-cognitive laziness' (termed 'cognitive surrender' in the following article): [“Cognitive surrender” leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/).
+1. More on 'metacognitive laziness' (termed 'cognitive surrender' in the following article): [“Cognitive surrender” leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/).
 
 ## Updates: 03.04.2026
 1. Esri has published the [agenda](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110503915) for its upcoming in-person *Education Summit* (11-12 July 2026), and it includes sessions such as:
