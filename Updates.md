@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 18.09.2026
-1. On **cognitive surrender** (also referred to **metacognitive laziness**): [An M.I.T. Report Warns A.I. Is Causing ‘Cognitive Surrender.’ Universities Are in a Bind.](https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html) (*source: New York Times, 2026*).
+1. On **cognitive surrender** (*also referred to **metacognitive laziness***): [An M.I.T. Report Warns A.I. Is Causing ‘Cognitive Surrender.’ Universities Are in a Bind.](https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html) (*source: New York Times, 2026*).
 
 ## Updates: 17.09.2026
 1. The following is not GeoAI-specific, but it does speak to the **ethical considerations regarding what is possible using modern Earth Observation data** such as sensors that can essentially scan below forest canopies: [The ethical costs of remotely sensing tropical forest understories](https://www.nature.com/articles/s41559-026-03187-y) (*source: Nature, 2026*).
