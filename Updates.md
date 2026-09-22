@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 22.09.2026
-1. On **"AI co-scientists"** (*although IMHO, this could be an article about the dangers of cognitive surrender*): [AI co-scientists are revolutionizing how research is done. Artificial-intelligence systems can generate hypotheses, design experiments and analyse data — but humans still need to decide what makes sense.](https://www.nature.com/articles/d41586-026-02931-5) (*source: Nature, 2026*).
+1. On **"AI co-scientists"** (*although IMHO, this could be an article about the dangers of **cognitive surrender***): [AI co-scientists are revolutionizing how research is done. Artificial-intelligence systems can generate hypotheses, design experiments and analyse data — but humans still need to decide what makes sense.](https://www.nature.com/articles/d41586-026-02931-5) (*source: Nature, 2026*).
 
 ## Updates: 21.09.2026
 1. The [University of Notre Dame](https://www.nd.edu) is hosting a **Scientific Machine Learning (SciML)** [conference](https://sciml26nd.github.io/index.html) this coming weekend (Saturday, 27 Sept. - Sunday, 28 Sept. 2026). While the first session (1A) may not be focusing on geographic data *per se*, it will be focusing on ***Data-Driven Modeling & Digital Twins***. For more details, see: https://sciml26nd.github.io/schedule.html.
