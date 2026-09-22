@@ -10,7 +10,7 @@
 
 ## Updates: 21.09.2026
 1. The [University of Notre Dame](https://www.nd.edu) is hosting a **Scientific Machine Learning (SciML)** [conference](https://sciml26nd.github.io/index.html) this coming weekend (Saturday, 27 Sept. - Sunday, 28 Sept. 2026). While the first session (1A) may not be focusing on geographic data *per se*, it will be focusing on ***Data-Driven Modeling & Digital Twins***. For more details, see: https://sciml26nd.github.io/schedule.html.
-2. Esri's founder and President, Jack Dangermond recently published a very basic blog post about **the intersection of geographic data and AI**: [AI Needs Geography—and You](https://www.esri.com/about/newsroom/arcnews/ai-needs-geography-and-you).
+2. Esri's founder and President, Jack Dangermond recently published a very basic blog post about **the intersection of geographic data and AI**: [AI Needs Geography—and You](https://www.esri.com/about/newsroom/arcnews/ai-needs-geography-and-you) (*source: Esri, 2026*).
 
 ## Updates: 18.09.2026
 1. On **cognitive surrender** (*also referred to **metacognitive laziness***): [An M.I.T. Report Warns A.I. Is Causing ‘Cognitive Surrender.’ Universities Are in a Bind.](https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html) (*source: New York Times, 2026*).
