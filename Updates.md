@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 24.09.2026
+1. Continuing on the topic of the **impact of [the overuse of] AI on people's cognitive skills**, yesterday, *Nature News* published a piece entitled [How to stay smart in the age of AI: the science of critical thinking](https://www.nature.com/articles/d41586-026-02930-6).
+
 ## Updates: 23.09.2026
 1. For those who use **Google Earth Engine (GEE) for classical machine learning**, it's that time of year where Google is soliciting feedback via its **Annual Developer Satisfaction Survey**: https://google.qualtrics.com/jfe/form/SV_9oS0DRcPvElRMNw.
 
