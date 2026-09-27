@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 27.08.2026
+1. More perspectives on GeoAI, from Esri: [How Geospatial AI Is Transforming Common GIS Workflows](https://www.esri.com/about/newsroom/arcwatch/how-geospatial-ai-is-transforming-common-gis-workflows).
+
 ## Updates: 24.09.2026
 1. Continuing on the topic of the **impact of [the overuse of] AI on people's cognitive skills**, yesterday, *Nature News* published a piece entitled "[How to stay smart in the age of AI: the science of critical thinking](https://www.nature.com/articles/d41586-026-02930-6)."
 
