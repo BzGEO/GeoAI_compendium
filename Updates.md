@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 28.09.2026
-1. Relevant to GeoAI, Esri is organizing a MOOC on [**Spatial Data Science: The New Frontier in Analytics**](https://www.esri.com/en-us/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics), running between 23 September and 4 November 2026 (with registration closing on 8 October).
+1. Relevant to GeoAI, Esri is organizing a MOOC on [**Spatial Data Science: The New Frontier in Analytics**](https://www.esri.com/en-us/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics), running between 23 September and 4 November 2026 (*with registration closing on 8 October*).
 
 ## Updates: 27.08.2026
 1. More **perspectives on GeoAI**, from Esri, including the **integration of *agentic AI* into Esri's tools**: [How Geospatial AI Is Transforming Common GIS Workflows](https://www.esri.com/about/newsroom/arcwatch/how-geospatial-ai-is-transforming-common-gis-workflows).
