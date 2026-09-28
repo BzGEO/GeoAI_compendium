@@ -7,6 +7,7 @@
 
 ## Updates: 27.08.2026
 1. More **perspectives on GeoAI**, from Esri, including the **integration of *agentic AI* into Esri's tools**: [How Geospatial AI Is Transforming Common GIS Workflows](https://www.esri.com/about/newsroom/arcwatch/how-geospatial-ai-is-transforming-common-gis-workflows).
+2. Also related to **GeoAI**, the Summer 2026 edition of Esri's ***ArcNews*** also has an article on [The Next Era of AI and ArcGIS](https://www.esri.com/about/newsroom/arcnews/the-next-era-of-ai-and-arcgis).
 
 ## Updates: 24.09.2026
 1. Continuing on the topic of the **impact of [the overuse of] AI on people's cognitive skills**, yesterday, *Nature News* published a piece entitled "[How to stay smart in the age of AI: the science of critical thinking](https://www.nature.com/articles/d41586-026-02930-6)."
