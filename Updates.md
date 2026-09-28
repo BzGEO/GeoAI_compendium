@@ -8,6 +8,8 @@
 ## Updates: 28.09.2026
 1. Relevant to GeoAI, Esri is organizing a MOOC on [**Spatial Data Science: The New Frontier in Analytics**](https://www.esri.com/en-us/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics), running between 23 September and 4 November 2026 (*with registration closing on 8 October*).
 
+<img width="1627" height="282" alt="image" src="https://github.com/user-attachments/assets/95753290-4eda-40f4-a45f-73bd91e03026" />
+
 ## Updates: 27.08.2026
 1. More **perspectives on GeoAI**, from Esri, including the **integration of *agentic AI* into Esri's tools**: [How Geospatial AI Is Transforming Common GIS Workflows](https://www.esri.com/about/newsroom/arcwatch/how-geospatial-ai-is-transforming-common-gis-workflows).
 2. Also relevant to **GeoAI**, the Summer 2026 edition of Esri's ***ArcNews*** also has an article on [The Next Era of AI and ArcGIS](https://www.esri.com/about/newsroom/arcnews/the-next-era-of-ai-and-arcgis).
