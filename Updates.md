@@ -10,11 +10,13 @@
 
 <img width="1761" height="1345" alt="image" src="https://github.com/user-attachments/assets/4df00315-e080-44e3-acb7-7361b661afc6" />
 
-2. This week, *Wired*'s ***Uncanny Valley*** podcast featured Dr. Timnit Gebru (*formerly of Google*), providing convincing perspectives about **AI hype** given recent happenings related to **AI agents**.
+2. This week, *Wired*'s ***Uncanny Valley*** [podcast](https://www.wired.com/podcast/uncanny-valley/) featured Dr. Timnit Gebru (*formerly of Google*), providing convincing perspectives about **AI hype** given recent happenings related to **AI agents**.
 
 <img width="1471" height="381" alt="image" src="https://github.com/user-attachments/assets/8ab4d433-4a64-4d8e-9558-e2af062bc8ce" />
 
-3. Also on **AI hype**, if you haven't already read it, see Bender et al. (2020)'s [**On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?**](https://dl.acm.org/doi/10.1145/3442188.3445922) paper.
+3. Also on **AI hype**, if you haven't already read it, see Bender et al. (20201)'s [**On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?**](https://dl.acm.org/doi/10.1145/3442188.3445922) paper.
+
+<img width="1045" height="417" alt="image" src="https://github.com/user-attachments/assets/f9bb5c37-c8fb-4b6d-bfc6-604855bd1865" />
 
 ## Updates: 28.09.2026
 1. Relevant to GeoAI, Esri is organizing a MOOC on [**Spatial Data Science: The New Frontier in Analytics**](https://www.esri.com/en-us/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics), running between 23 September and 4 November 2026 (*with registration closing on 8 October*).
