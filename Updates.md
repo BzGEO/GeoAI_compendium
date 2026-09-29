@@ -5,6 +5,17 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 29.08.2026
+1. Oak Ridge National Lab (ORNL) and Microsoft are organizing a **Computer Vision for Earth Observation** workshop next year at the ***Winter Conference on Applications of Computer Vision***. The deadline for paper submission is Wed. 14th October 2026. See: https://geoai.ornl.gov/cv4eo-wacv/call-for-papers/.
+
+<img width="1761" height="1345" alt="image" src="https://github.com/user-attachments/assets/4df00315-e080-44e3-acb7-7361b661afc6" />
+
+2. This week, *Wired*'s ***Uncanny Valley*** podcast featured Dr. Timnit Gebru (*formerly of Google*), providing convincing perspectives about **AI hype** given recent happenings related to **AI agents**.
+
+<img width="1471" height="381" alt="image" src="https://github.com/user-attachments/assets/8ab4d433-4a64-4d8e-9558-e2af062bc8ce" />
+
+3. Also on **AI hype**, if you haven't already read it, see Bender et al. (2020)'s [**On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?**](https://dl.acm.org/doi/10.1145/3442188.3445922) paper.
+
 ## Updates: 28.09.2026
 1. Relevant to GeoAI, Esri is organizing a MOOC on [**Spatial Data Science: The New Frontier in Analytics**](https://www.esri.com/en-us/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics), running between 23 September and 4 November 2026 (*with registration closing on 8 October*).
 
