@@ -10,7 +10,7 @@
 
 <img width="1761" height="1345" alt="image" src="https://github.com/user-attachments/assets/4df00315-e080-44e3-acb7-7361b661afc6" />
 
-2. This week, *Wired*'s ***Uncanny Valley*** [podcast](https://www.wired.com/podcast/uncanny-valley/) featured Dr. Timnit Gebru (*formerly of Google*), providing convincing perspectives about **AI hype** given recent happenings related to **AI agents**.
+2. This week, *Wired*'s ***Uncanny Valley*** [podcast](https://www.wired.com/podcast/uncanny-valley/) featured [Dr. Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru) (*formerly of Google*), providing convincing perspectives about **AI hype** given recent happenings related to **AI agents**.
 
 <img width="1471" height="381" alt="image" src="https://github.com/user-attachments/assets/8ab4d433-4a64-4d8e-9558-e2af062bc8ce" />
 
