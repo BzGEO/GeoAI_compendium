@@ -5,6 +5,11 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 30.09.2026
+1. Esri is organizing a webinar on **AI assistants in ArcGIS** on the 6th October 2026: [**AI Assistants in ArcGIS: What They Mean for Your Classroom**](https://community.esri.com/en/discussion/1720670/october-2026-ai-assistants-in-arcgis-what-they-mean-for-your-classroom).
+
+<img width="1272" height="316" alt="image" src="https://github.com/user-attachments/assets/fc0de574-f6cd-4300-b5cf-02518cd541c9" />
+
 ## Updates: 29.08.2026
 1. Oak Ridge National Lab (ORNL) and Microsoft are organizing a **Computer Vision for Earth Observation** workshop next year at the ***Winter Conference on Applications of Computer Vision***. The deadline for paper submission is Wed. 14th October 2026. See: https://geoai.ornl.gov/cv4eo-wacv/call-for-papers/.
 
