@@ -15,7 +15,7 @@
 
 <img width="1272" height="316" alt="image" src="https://github.com/user-attachments/assets/fc0de574-f6cd-4300-b5cf-02518cd541c9" />
 
-## Updates: 29.08.2026
+## Updates: 29.09.2026
 1. Oak Ridge National Lab (ORNL) and Microsoft are organizing a **Computer Vision for Earth Observation** workshop next year at the ***Winter Conference on Applications of Computer Vision***. The deadline for paper submission is Wed. 14th October 2026. See: https://geoai.ornl.gov/cv4eo-wacv/call-for-papers/.
 
 <img width="1761" height="1345" alt="image" src="https://github.com/user-attachments/assets/4df00315-e080-44e3-acb7-7361b661afc6" />
@@ -68,7 +68,7 @@
 <img width="524" height="584" alt="image" src="https://github.com/user-attachments/assets/e780d965-201a-4aee-8950-8d2117eaf26b" />
 
 ## Updates: 11.09.2026
-1. On **AI hype**: Last night on CNN, NYU professor Scott Galloway indicated that the recent talk about rogue AI agents eventually causing doomsday could just be a product of the industry's hype machine: https://www.cnn.com/2026/09/10/us/video/ac360-scott-galloway-ai.
+1. On **AI hype**: Last night on CNN, NYU professor [Scott Galloway](https://www.stern.nyu.edu/faculty/bio/scott-galloway) indicated that the recent talk about rogue AI agents eventually causing doomsday could just be a product of the industry's hype machine: https://www.cnn.com/2026/09/10/us/video/ac360-scott-galloway-ai.
 
 <img width="1342" height="762" alt="image" src="https://github.com/user-attachments/assets/98b2e2fc-b0f6-46dc-812a-2a0297f0148c" />
 
