@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 01.10.2026
+1. A sobering perspective on AI chatbots, from a guest essay to the *New York Times*: [**These Things Are Computers. Stop Talking About Them Like They’re Human.**](https://www.nytimes.com/2026/10/01/opinion/ai-human.html) (*probably behind a paywall*).
+
 ## Updates: 30.09.2026
 1. Esri is organizing a webinar on **AI assistants in ArcGIS** on the 6th October 2026: [**AI Assistants in ArcGIS: What They Mean for Your Classroom**](https://community.esri.com/en/discussion/1720670/october-2026-ai-assistants-in-arcgis-what-they-mean-for-your-classroom).
 
