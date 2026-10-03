@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 02.10.2026
+1. Esri just published a blog post about classifying point cloud data using embeddings: [Classify Point Clouds Using Embedding Based Image Analysis](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/classify-point-clouds-using-embedding-based-image-analysis).
+
 ## Updates: 01.10.2026
 1. A sobering **perspective on AI chatbots**, from a guest essay to the *New York Times*: [**These Things Are Computers. Stop Talking About Them Like They’re Human.**](https://www.nytimes.com/2026/10/01/opinion/ai-human.html) (*probably behind a paywall*).
 2. The **Geo-Embeddings** virtual community (*convened by Clark University / the Cloud-Native Geospatial Forum*) met today, 1st October 2026. To join the community and receive invitations for their monthly virtual meetings, see: https://groups.google.com/a/cloudnativegeo.org/g/geo-embeddings-community.
