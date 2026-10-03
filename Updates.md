@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 02.10.2026
-1. Esri just published a blog post about classifying point cloud data using embeddings: [Classify Point Clouds Using Embedding Based Image Analysis](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/classify-point-clouds-using-embedding-based-image-analysis).
+1. Esri just published a blog post about **classifying point cloud data using embeddings**: [Classify Point Clouds Using Embedding Based Image Analysis](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/classify-point-clouds-using-embedding-based-image-analysis).
 
 ## Updates: 01.10.2026
 1. A sobering **perspective on AI chatbots**, from a guest essay to the *New York Times*: [**These Things Are Computers. Stop Talking About Them Like They’re Human.**](https://www.nytimes.com/2026/10/01/opinion/ai-human.html) (*probably behind a paywall*).
