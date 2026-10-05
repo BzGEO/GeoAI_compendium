@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 05.10.2026
+1. Esri published the highlights of its user survey from the **2026 Esri User Conference**: https://storymaps.arcgis.com/stories/f970f5d22c964870b2ee452cb8b17fc7/.
+
 ## Updates: 02.10.2026
 1. Esri just published a blog post about **classifying point cloud data using embeddings**: [Classify Point Clouds Using Embedding Based Image Analysis](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/classify-point-clouds-using-embedding-based-image-analysis).
 
