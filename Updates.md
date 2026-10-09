@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 09.10.2026
+1. ICYMI, the deadline for the *Remote Sensing of Environment* (RSE) special issue on ***Geospatial Foundation Models for Advancing Remote Sensing of Environment*** has been extended to 31 December 2026: https://www.sciencedirect.com/special-issue/330054/geospatial-foundation-models-for-advancing-remote-sensing-of-environment.
+
 ## Updates: 05.10.2026
 1. Esri published the highlights of its user survey from the **2026 Esri User Conference**: https://storymaps.arcgis.com/stories/f970f5d22c964870b2ee452cb8b17fc7/.
 
