@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 10.10.2026
+1. On covering AI in spite of rapid changes in the technology: [For reporters covering AI, keeping up with story is both tough and exciting](https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting) (*source: NPR, 2026*).
+
 ## Updates: 09.10.2026
 1. ICYMI, the deadline for the *Remote Sensing of Environment* (RSE) special issue on ***Geospatial Foundation Models for Advancing Remote Sensing of Environment*** has been extended to **31 December 2026**: https://www.sciencedirect.com/special-issue/330054/geospatial-foundation-models-for-advancing-remote-sensing-of-environment.
 
