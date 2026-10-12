@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 11.10.2026
-1. On using Esri's *ArcPy* in *Microsoft Excel*: [An Introduction to Python in Excel with ArcGIS for Excel](https://www.esri.com/arcgis-blog/products/arcgis-for-excel/announcements/an-introduction-to-python-in-excel-with-arcgis-for-excel) (*source: ArcGIS Blog, 2026*).
+1. On using Esri's *[ArcPy](https://doc.esri.com/en/arcgis-pro/latest/arcpy/get-started/what-is-arcpy-.html)* in *Microsoft Excel*: [An Introduction to Python in Excel with ArcGIS for Excel](https://www.esri.com/arcgis-blog/products/arcgis-for-excel/announcements/an-introduction-to-python-in-excel-with-arcgis-for-excel) (*source: ArcGIS Blog, 2026*).
 
 ## Updates: 10.10.2026
 1. On **covering AI in spite of rapid changes in the technology**: [For reporters covering AI, keeping up with story is both tough and exciting](https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting) (*source: NPR, 2026*).
