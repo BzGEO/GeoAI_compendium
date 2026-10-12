@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 12.10.2026
-1. On 3 November 2026, [Esri](https://www.esri.com/en-us/home) is hosting a webinar on **Beyond the Textbook: Innovative Resources for Teaching GIS**. See the registration [page](https://community.esri.com/en/discussion/1720904/november-2026-beyond-the-textbook-innovative-resources-for-teaching-gis).
+1. On 3 November 2026, [Esri](https://www.esri.com/en-us/home) is hosting a webinar on **Beyond the Textbook: Innovative Resources for Teaching GIS**; see the registration [page](https://community.esri.com/en/discussion/1720904/november-2026-beyond-the-textbook-innovative-resources-for-teaching-gis).
 
 <img width="671" height="263" alt="image" src="https://github.com/user-attachments/assets/882dc1aa-8f05-446e-b993-b4cbd98ff665" />
 
