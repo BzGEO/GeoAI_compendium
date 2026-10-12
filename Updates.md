@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 11.10.2026
+1.
+
 ## Updates: 10.10.2026
 1. On **covering AI in spite of rapid changes in the technology**: [For reporters covering AI, keeping up with story is both tough and exciting](https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting) (*source: NPR, 2026*).
 
