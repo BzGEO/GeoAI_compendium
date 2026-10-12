@@ -8,6 +8,8 @@
 ## Updates: 12.10.2026
 1. On 3 November 2026, Esri is hosting a webinar on **Beyond the Textbook: Innovative Resources for Teaching GIS**. See the registration [page](https://community.esri.com/en/discussion/1720904/november-2026-beyond-the-textbook-innovative-resources-for-teaching-gis).
 
+<img width="671" height="263" alt="image" src="https://github.com/user-attachments/assets/882dc1aa-8f05-446e-b993-b4cbd98ff665" />
+
 ## Updates: 11.10.2026
 1. On using Esri's *[ArcPy](https://doc.esri.com/en/arcgis-pro/latest/arcpy/get-started/what-is-arcpy-.html)* in *Microsoft Excel*: [An Introduction to Python in Excel with ArcGIS for Excel](https://www.esri.com/arcgis-blog/products/arcgis-for-excel/announcements/an-introduction-to-python-in-excel-with-arcgis-for-excel) (*source: ArcGIS Blog, 2026*).
 
