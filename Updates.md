@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 14.10.2026
+1. ICYMI, the deadline for Google's **Custom Satellite Embeddings Academic Program** is due tomorrow, Thu. **15 October 2026**; here is the application [link](https://docs.google.com/forms/d/e/1FAIpQLSfJ6MPktzngI8DkeRRMA4M-_jaJVD3vbBQFD5YZEIL6siztQw/viewform).
+
 ## Updates: 12.10.2026
 1. On 3 November 2026, [Esri](https://www.esri.com/en-us/home) is hosting a webinar on **Beyond the Textbook: Innovative Resources for Teaching GIS**; see the registration [page](https://community.esri.com/en/discussion/1720904/november-2026-beyond-the-textbook-innovative-resources-for-teaching-gis).
 
