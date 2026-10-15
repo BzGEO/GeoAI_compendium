@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 15.10.2026
+1. On the topic of **geospatial AI**, Esri will be hosting a webinar on [**Strategies for Integrating Thoughtful AI into GIS Teaching and Learning**](https://www.esri.com/en-us/webinars/industry/education/strategies-for-integrating-thoughtful-ai-into-gis-teaching-and-learning) on Thu. 5 November 2026, from 1:00-2:00 pm Eastern time.
+
 ## Updates: 14.10.2026
 1. ICYMI, and relevant to geospatial AI, and specifically related to foundation model embeddings, the deadline for Google's **Custom Satellite Embeddings Academic Program** is due tomorrow, Thu. **15 October 2026**; here is the application [link](https://docs.google.com/forms/d/e/1FAIpQLSfJ6MPktzngI8DkeRRMA4M-_jaJVD3vbBQFD5YZEIL6siztQw/viewform).
 
