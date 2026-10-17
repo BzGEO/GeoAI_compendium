@@ -5,6 +5,11 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 17.10.2026
+1. Kiri Carini and Martha Morrissey of [*Development Seed*](https://developmentseed.org) developed an informative [primer](https://developmentseed.org/blog/2026-10-02-earth-embeddings/) on **geospatial embeddings**, as well as a compelling accompanying [poster](https://zines.developmentseed.org/zines/earth-embeddings-poster/).
+
+<img width="353" height="544" alt="image" src="https://github.com/user-attachments/assets/385c0b05-6d74-4366-b1c6-e25ad0f6f968" />
+
 ## Updates: 15.10.2026
 1. On the topic of **geospatial AI**, Esri will be hosting a webinar on [**Strategies for Integrating Thoughtful AI into GIS Teaching and Learning**](https://www.esri.com/en-us/webinars/industry/education/strategies-for-integrating-thoughtful-ai-into-gis-teaching-and-learning) on Thu. 5 November 2026, from 1:00-2:00 pm Eastern time.
 
