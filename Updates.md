@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 17.10.2026
-1. Kiri Carini and Martha Morrissey of [*Development Seed*](https://developmentseed.org) developed an informative [primer](https://developmentseed.org/blog/2026-10-02-earth-embeddings/) on **geospatial embeddings**, as well as a compelling accompanying [poster](https://zines.developmentseed.org/zines/earth-embeddings-poster/).
+1. Kiri Carini and Martha Morrissey of [*Development Seed*](https://developmentseed.org) recently developed an informative [primer](https://developmentseed.org/blog/2026-10-02-earth-embeddings/) on **geospatial embeddings**, as well as a compelling accompanying [poster](https://zines.developmentseed.org/zines/earth-embeddings-poster/).
 
 <img width="353" height="544" alt="image" src="https://github.com/user-attachments/assets/385c0b05-6d74-4366-b1c6-e25ad0f6f968" />
 
