@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 20.10.2026
-1. The title and subtitle speak for themselves: [Three reasons why AI is not conscious and perhaps never will be. Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience.](https://www.nature.com/articles/d41586-026-03313-7) (*source: Nature, 2026*)
+1. On AI in general, the title and subtitle of the following very much speak for themselves: [Three reasons why AI is not conscious and perhaps never will be. Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience.](https://www.nature.com/articles/d41586-026-03313-7) (*source: Nature, 2026*)
 
 ## Updates: 17.10.2026
 1. Kiri Carini and Martha Morrissey of [*Development Seed*](https://developmentseed.org) recently developed an informative [primer](https://developmentseed.org/blog/2026-10-02-earth-embeddings/) on **geospatial embeddings**, as well as a compelling accompanying [poster](https://zines.developmentseed.org/zines/earth-embeddings-poster/).
