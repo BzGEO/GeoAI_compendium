@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 22.10.2026
-1. ICYMI, from Google last week (14.10.2026): [Putting Earth AI to work: Geospatial agents for our planet's biggest challenges](https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/) (*source: x, 2026*).
+1. ICYMI, from Google last week (14.10.2026): [Putting Earth AI to work: Geospatial agents for our planet's biggest challenges](https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/) (*source: Google, 2026*).
 
 ## Updates: 20.10.2026
 1. On AI in general, the title and subtitle of the following very much speak for themselves: [**Three reasons why AI is not conscious and perhaps never will be.** Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience.](https://www.nature.com/articles/d41586-026-03313-7) (*source: Nature, 2026*)
