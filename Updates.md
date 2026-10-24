@@ -6,7 +6,9 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 24.10.2026
-1. The [World Resources Institute](https://www.wri.org), the [GEO's Indigenous Alliance](https://www.geoindigenousalliance.org), and [Space4Innovation](https://www.space4innovation.com) are co-hosting a ***Virtual Dialogue on AI and Indigenous Perspectives*** on Tue. 28 October 2026 at 9:00–10:30 AM ET. Register [here](https://wri-org.zoom.us/meeting/register/6T7HVD4VQ7es2R6BlNqbqA).
+1. The [World Resources Institute](https://www.wri.org), the [GEO's Indigenous Alliance](https://www.geoindigenousalliance.org), and [Space4Innovation](https://www.space4innovation.com) are co-hosting a ***Virtual Dialogue on AI and Indigenous Perspectives*** on **Tue. 28 October 2026** at 9:00–10:30 AM ET. Register [here](https://wri-org.zoom.us/meeting/register/6T7HVD4VQ7es2R6BlNqbqA).
+
+<img width="513" height="747" alt="image" src="https://github.com/user-attachments/assets/25886ece-ba74-485b-ae81-393844f8c77f" />
 
 ## Updates: 22.10.2026
 1. ICYMI, regarding **geospatial AI and LLMs**, the following blog post was published by Google last week (14.10.2026): [Putting Earth AI to work: Geospatial agents for our planet's biggest challenges](https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/) (*source: Google, 2026*).
