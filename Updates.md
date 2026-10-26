@@ -5,7 +5,7 @@
 
 <!-- []() (*source: x, 2026*) -->
 
-## Updates: 25.10.2026
+## Updates: 26.10.2026
 1. Esri recently published the following case study on the **use of deep learning for mapping tree canopy cover** in Chattanooga, Tennessee: [Using Imagery and GeoAI to Guide Urban Tree Canopy Restoration in Chattanooga, TN](https://www.esri.com/en-us/lg/industry/education/stories/using-imagery-geoai-to-guide-urban-tree-canopy-restoration-in-chattanooga-tn).
 2. On the **impact of using AI chatbots for research**: [Could your chatbot tip off a scientific rival? It’s possible, researchers say](https://www.science.org/content/article/could-your-chatbot-tip-scientific-rival-it-s-possible-researchers-say) (*source: Science, 2026*).
 
