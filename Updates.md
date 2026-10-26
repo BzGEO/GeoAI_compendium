@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 25.10.2026
+1. Esri recently published the following case study on the **use of deep learning for mapping tree canopy cover** in Chattanooga, Tennessee: [Using Imagery and GeoAI to Guide Urban Tree Canopy Restoration in Chattanooga, TN](https://www.esri.com/en-us/lg/industry/education/stories/using-imagery-geoai-to-guide-urban-tree-canopy-restoration-in-chattanooga-tn).
+
 ## Updates: 24.10.2026
 1. The [World Resources Institute](https://www.wri.org), the [GEO's Indigenous Alliance](https://www.geoindigenousalliance.org), and [Space4Innovation](https://www.space4innovation.com) are co-hosting a ***Virtual Dialogue on AI and Indigenous Perspectives*** on **Tue. 28 October 2026** at 9:00–10:30 AM ET. Register [here](https://wri-org.zoom.us/meeting/register/6T7HVD4VQ7es2R6BlNqbqA).
 
