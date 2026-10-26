@@ -11,7 +11,7 @@
 
 <img width="536" height="418" alt="image" src="https://github.com/user-attachments/assets/7876d080-5b72-47dc-9ce8-ad88d3f6565e" />
 
-3. The [Copernicus programme](https://www.copernicus.eu/en) recently released a [Jupyter Notebook](https://github.com/Open-EO/openeo-community-examples/blob/main/python/60_geospatial-embeddings/terramind/terramind-embedding.ipynb) for extracting geospatial embeddings from Sentinel-1 and Sentinel-2 data, leveraging the TerraMind 1.0 EO foundation model: https://dataspace.copernicus.eu/news/2026-9-25-new-openeo-community-example-generate-terramind-embeddings-sentinel-1-and-sentinel-2.
+3. The [Copernicus programme](https://www.copernicus.eu/en) recently released a [Jupyter Notebook](https://github.com/Open-EO/openeo-community-examples/blob/main/python/60_geospatial-embeddings/terramind/terramind-embedding.ipynb) for extracting geospatial embeddings from Sentinel-1 and Sentinel-2 data, leveraging the [TerraMind 1.0](https://huggingface.co/ibm-esa-geospatial/TerraMind-1.0-large) EO foundation model: https://dataspace.copernicus.eu/news/2026-9-25-new-openeo-community-example-generate-terramind-embeddings-sentinel-1-and-sentinel-2.
 
 ## Updates: 24.10.2026
 1. The [World Resources Institute](https://www.wri.org), the [GEO's Indigenous Alliance](https://www.geoindigenousalliance.org), and [Space4Innovation](https://www.space4innovation.com) are co-hosting a ***Virtual Dialogue on AI and Indigenous Perspectives*** on **Tue. 28 October 2026** at 9:00–10:30 AM ET. Register [here](https://wri-org.zoom.us/meeting/register/6T7HVD4VQ7es2R6BlNqbqA).
