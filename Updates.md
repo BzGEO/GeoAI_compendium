@@ -7,6 +7,9 @@
 
 ## Updates: 27.10.2026
 1. *AI is now SI*, at least for the US federal government, per **Executive Order 14434** from 29 Sept. 2026, on ["Inaugurating the Era of Super Intelligence"](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/).
+2. A team of international researchers has put together a GitHub repo that inventories geospatial embeddings data: https://github.com/hfangcat/Awesome-Geospatial-Embeddings.
+
+<img width="599" height="203" alt="image" src="https://github.com/user-attachments/assets/310aee2c-31af-4bbf-9a98-f5b7e91e1ae2" />
 
 ## Updates: 26.10.2026
 1. The [Copernicus programme](https://eu-space.europa.eu/earth-observation/copernicus) recently released a [Jupyter Notebook](https://github.com/Open-EO/openeo-community-examples/blob/main/python/60_geospatial-embeddings/terramind/terramind-embedding.ipynb) for extracting [geospatial embeddings](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/an-introduction-to-embeddings-for-gis-analysts) from [Sentinel-1](https://sentinels.copernicus.eu/copernicus/sentinel-1) and [Sentinel-2](https://sentinels.copernicus.eu/copernicus/sentinel-2) data, leveraging the [TerraMind 1.0](https://huggingface.co/ibm-esa-geospatial/TerraMind-1.0-large) EO foundation model: https://dataspace.copernicus.eu/news/2026-9-25-new-openeo-community-example-generate-terramind-embeddings-sentinel-1-and-sentinel-2.
