@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 27.10.2026
-1. AI is now SI, at least for the US federal government, per **Executive Order 14434** from 29 Sept. 2026, on "Inaugurating the Era of Super Intelligence" (https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/).
+1. AI is now SI, at least for the US federal government, per **Executive Order 14434** from 29 Sept. 2026, on ["Inaugurating the Era of Super Intelligence"](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/).
 
 ## Updates: 26.10.2026
 1. Esri recently published the following case study on the **use of deep learning for mapping tree canopy cover** in Chattanooga, Tennessee: [Using Imagery and GeoAI to Guide Urban Tree Canopy Restoration in Chattanooga, TN](https://www.esri.com/en-us/lg/industry/education/stories/using-imagery-geoai-to-guide-urban-tree-canopy-restoration-in-chattanooga-tn).
