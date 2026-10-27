@@ -7,7 +7,8 @@
 
 ## Updates: 27.10.2026
 1. *AI is now SI*, at least for the US federal government, per **Executive Order 14434** from 29 Sept. 2026, on ["Inaugurating the Era of Super Intelligence"](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/).
-2. A team of international researchers has put together a GitHub repo that inventories geospatial embeddings data: https://github.com/hfangcat/Awesome-Geospatial-Embeddings.
+2. Esri recently released the 3.7.3 patch for *ArcGIS Pro 3.7* on 15 October 2026; see: https://support.esri.com/en-us/patches-updates/2026/arcgis-pro-3-7-patch-3-3-7-3-announcement.
+3. A team of international researchers has put together a GitHub repo that inventories geospatial embeddings data: https://github.com/hfangcat/Awesome-Geospatial-Embeddings.
 
 <img width="599" height="203" alt="image" src="https://github.com/user-attachments/assets/310aee2c-31af-4bbf-9a98-f5b7e91e1ae2" />
 
