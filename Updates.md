@@ -5,6 +5,11 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 28.10.2026
+1. On **the value of using remote sensing to upscale in-situ observations**, Cherrington (2016) noted the following: "the Center for Tropical Forest Studies (CFTS)’ network, for instance, only covers 11.22 km2 of approximately 16.2 million km2 of total forest area (FAO 2010; Anderson-Teixeira et al. 2015). That thus only covers 0.00007% of the total area of tropical forests. It is therefore unlikely, even summing the plots from other networks, that the current plot network is sufficiently representative." Note that the CTFS network has been rebranded as the ForestGEO network.
+
+<img width="576" height="315" alt="image" src="https://github.com/user-attachments/assets/c0cfcd12-d7c0-456e-8b54-b297d0f1fc92" />
+
 ## Updates: 27.10.2026
 1. *AI is now SI*, at least for the US federal government, per **Executive Order 14434** from 29 Sept. 2026, on ["Inaugurating the Era of Super Intelligence"](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/).
 2. Esri recently released the 3.7.3 patch for *ArcGIS Pro 3.7* on 15 October 2026; see: https://support.esri.com/en-us/patches-updates/2026/arcgis-pro-3-7-patch-3-3-7-3-announcement.
