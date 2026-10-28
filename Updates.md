@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 28.10.2026
-1. On **the value of using remote sensing to upscale in-situ observations**, Cherrington (2016) noted the following: "the Center for Tropical Forest Studies (CFTS)’ network, for instance, only covers 11.22 km2 of approximately 16.2 million km2 of total forest area (FAO 2010; Anderson-Teixeira et al. 2015). That thus only covers 0.00007% of the total area of tropical forests. It is therefore unlikely, even summing the plots from other networks, that the current plot network is sufficiently representative." Note that the CTFS network has been rebranded as the ForestGEO network.
+1. On **the value of using remote sensing to upscale in-situ observations**, [Cherrington (2016)](https://theses.hal.science/tel-01486533v1/document) noted the following: "the Center for Tropical Forest Studies (CFTS)’ network, for instance, only covers 11.22 km2 of approximately 16.2 million km2 of total forest area (FAO 2010; Anderson-Teixeira et al. 2015). That thus only covers 0.00007% of the total area of tropical forests. It is therefore unlikely, even summing the plots from other networks, that the current plot network is sufficiently representative." Note that the CTFS network has been rebranded as the ForestGEO network.
 
 <img width="576" height="315" alt="image" src="https://github.com/user-attachments/assets/c0cfcd12-d7c0-456e-8b54-b297d0f1fc92" />
 
