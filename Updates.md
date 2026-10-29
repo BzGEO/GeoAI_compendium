@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 29.10.2026
-1. Although not Geo-AI specific per se, today (29th October) from 2:30-3:30 pm EDT, there will be a **NASA Earth Science Division (ESD) Town Hall meeting**, which will probably feature discussions relevant to machine learning and the like. See: https://vimeo.com/event/6294906.
+1. Although not Geo-AI specific *per se*, today 29th October 2026, from 2:30-3:30 pm EDT, there will be a **NASA Earth Science Division (ESD) Town Hall meeting**, which will probably feature discussions relevant to machine learning and the like. See: https://vimeo.com/event/6294906.
 
 ## Updates: 28.10.2026
 1. On **the value of using remote sensing to upscale in-situ observations**, [Cherrington (2016)](https://theses.hal.science/tel-01486533v1/document) noted the following: "...The Center for Tropical Forest Studies (CFTS)’ network, for instance, only covers 11.22 km2 of approximately 16.2 million km2 of total forest area (FAO 2010; Anderson-Teixeira et al. 2015). That thus only covers 0.00007% of the total area of tropical forests. It is therefore unlikely, even summing the plots from other networks, that the current plot network is sufficiently representative." ***Note:**  The CTFS network has since been rebranded as the [ForestGEO network](https://forestgeo.si.edu/).*
