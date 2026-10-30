@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 30.10.2026
+1. Earlier this year, representatives of the *Taylor Geospatial Institute* and other institutions published a thought-provoking paper entitled "No One Knows the State of the Art in Geospatial Foundation Models." They just did a blog [post](https://taylorgeospatial.org/news/no-one-knows-the-state-of-the-art-in-geospatial-foundation-models/) summarizing the paper's main findings.
+
 ## Updates: 29.10.2026
 1. Although not Geo-AI specific *per se*, today 29th October 2026, from 2:30-3:30 pm EDT, there will be a **NASA Earth Science Division (ESD) Town Hall meeting**, which will probably feature discussions relevant to machine learning and the like. See: https://vimeo.com/event/6294906.
 
