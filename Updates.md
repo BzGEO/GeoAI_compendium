@@ -4,6 +4,10 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
 
 <!-- []() (*source: x, 2026*) -->
+## Updates: 01.11.2026
+1. Here are two stories that, if they don't point to the future of desktop and mobile computing, point to what some of the higher ups think about such computing:
+   * [**OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization**](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization) (*source: Tom's Hardware, 2026*)
+   * [**Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn’t Own Computers**](https://futurism.com/artificial-intelligence/sam-altman-hates-local-ai-models-computers) (*source: Futurism, 2026*)
 
 ## Updates: 30.10.2026
 1. Earlier this year, representatives of the [*Taylor Geospatial Institute*](https://taylorgeospatial.org/) and other institutions published a thought-provoking paper ([preprint](https://arxiv.org/abs/2605.12678)) entitled "***No One Knows the State of the Art in Geospatial Foundation Models***." They recently published a blog [post](https://taylorgeospatial.org/news/no-one-knows-the-state-of-the-art-in-geospatial-foundation-models/) summarizing the paper's main findings.
