@@ -4,6 +4,12 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
 
 <!-- []() (*source: x, 2026*) -->
+
+## Updates: 02.11.2026
+1. If you are attending the *American Geophysical Union* (AGU)'s fall 2026 meeting in December, an interesting session (SCIWS14) being hosted on Sunday, 6 December is **Hack the Earth: Using AI to Build Science-Based Apps with Vibe Coding**. See: https://hackagu26.lovable.app.
+
+<img width="846" height="686" alt="image" src="https://github.com/user-attachments/assets/8ac8c348-114e-485f-89f0-4029bca14ab1" />
+
 ## Updates: 01.11.2026
 1. Here are two stories that, if they don't point to the future of desktop and mobile computing, point to what some of the higher ups think about such computing:
    * [**OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization**](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization) (*source: Tom's Hardware, 2026*)
