@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 04.11.2026
-1. Today through tomorrow (4-5 Nov. 2026) at the [*National Space Science & Technology Center*](https://www.nsstc.uah.edu/nsstc/) (NSSTC), NASA is sponsoring a meeting of the new **User Centered Application with Large Earth Foundation Models** project. See: https://sites.google.com/uah.edu/nasa-a9/home.
+1. Today through tomorrow (4-5 Nov. 2026) at the [*National Space Science & Technology Center*](https://www.nsstc.uah.edu/nsstc/) (NSSTC), NASA is sponsoring a meeting of the new NASA A.9 **User Centered Application with Large Earth Foundation Models** project. See: https://sites.google.com/uah.edu/nasa-a9/.
 2. Today, 4 November 2026, will feature a meeting of the **Geo-Embeddings community**. See: https://groups.google.com/a/cloudnativegeo.org/g/geo-embeddings-community.
 
 ## Updates: 02.11.2026
