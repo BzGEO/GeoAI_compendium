@@ -5,6 +5,10 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 04.11.2026
+1. Today through tomorrow at the National Space Science & Technology Center (NSSTC), NASA is sponsoring a meeting of the new **User Centered Application with Large Earth Foundation Models** project. See: https://sites.google.com/uah.edu/nasa-a9/home.
+2. Today, 4 November 2026, will feature a meeting of the **Geo-Embeddings community**. See: https://groups.google.com/a/cloudnativegeo.org/g/geo-embeddings-community.
+
 ## Updates: 02.11.2026
 1. If you are attending the *American Geophysical Union* (AGU)'s fall 2026 meeting in December, an interesting session (SCIWS14) being hosted on Sunday, 6 December is **Hack the Earth: Using AI to Build Science-Based Apps with Vibe Coding**. See: https://hackagu26.lovable.app.
 
