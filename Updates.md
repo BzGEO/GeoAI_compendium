@@ -11,7 +11,7 @@
 <img width="831" height="368" alt="image" src="https://github.com/user-attachments/assets/28713df3-a641-40ae-90ad-e0f6b9538739" />
 
 ## Updates: 04.11.2026
-1. Today, 4 November 2026, ~~will feature~~ *featured* a meeting of the **Geo-Embeddings community**. See: https://groups.google.com/a/cloudnativegeo.org/g/geo-embeddings-community.
+1. Today, 4 November 2026, ~~will feature~~ *featured* a meeting of the **Geo-Embeddings community**. See: https://groups.google.com/a/cloudnativegeo.org/g/geo-embeddings-community. And ICYMI, here is the associated GitHub account for the Geo-Embeddings community: https://github.com/geo-embeddings.
 2. Today through tomorrow (4-5 Nov. 2026) at the [*National Space Science & Technology Center*](https://www.nsstc.uah.edu/nsstc/) (NSSTC), NASA is sponsoring a meeting of the new NASA A.9 ***User Centered Application with Large Earth Foundation Models*** project. See: https://sites.google.com/uah.edu/nasa-a9/.
 
 <img width="914" height="376" alt="image" src="https://github.com/user-attachments/assets/18fbe1a1-e71c-40cd-bdac-0b456bbc5099" />
