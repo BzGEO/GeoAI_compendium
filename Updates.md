@@ -20,6 +20,8 @@
 
 <img width="914" height="376" alt="image" src="https://github.com/user-attachments/assets/18fbe1a1-e71c-40cd-bdac-0b456bbc5099" />
 
+<!-- In the Geo-Embeddings meeting, Hutch Ingold from Earth Genome also shared the [slides](https://docs.google.com/presentation/d/1DeRNWXG99okE7rzyddX2MmZrr8wpc4dDu6WQVjoM8wI/edit?slide=id.h339dd7390b867a24_0_77#slide=id.h339dd7390b867a24_0_77) he presented the previous week at the Cloud Native Geospatial meeting in Zurich. -->
+
 ## Updates: 02.11.2026
 1. If you are attending the *American Geophysical Union* (AGU)'s fall 2026 meeting in December, an interesting session (SCIWS14) being hosted on Sunday, 6 December is **Hack the Earth: Using AI to Build Science-Based Apps with Vibe Coding**. See: https://hackagu26.lovable.app.
 
