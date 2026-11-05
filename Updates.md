@@ -5,6 +5,11 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 05.11.2026
+1. Today, Esri is hosting a webinar on **Geospatial AI in Education: Applying Pre-Trained Models and Embeddings**. For details, see: https://www.esri.com/en-us/webinars/industry/education/strategies-for-integrating-thoughtful-ai-into-gis-teaching-and-learning.
+
+<img width="831" height="368" alt="image" src="https://github.com/user-attachments/assets/28713df3-a641-40ae-90ad-e0f6b9538739" />
+
 ## Updates: 04.11.2026
 1. Today through tomorrow (4-5 Nov. 2026) at the [*National Space Science & Technology Center*](https://www.nsstc.uah.edu/nsstc/) (NSSTC), NASA is sponsoring a meeting of the new NASA A.9 ***User Centered Application with Large Earth Foundation Models*** project. See: https://sites.google.com/uah.edu/nasa-a9/.
 2. Today, 4 November 2026, will feature a meeting of the **Geo-Embeddings community**. See: https://groups.google.com/a/cloudnativegeo.org/g/geo-embeddings-community.
