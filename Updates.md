@@ -7,9 +7,9 @@
 
 ## Updates: 05.11.2026
 1. Today, Esri is hosting a webinar on **Geospatial AI in Education: Applying Pre-Trained Models and Embeddings**. For details, see: https://www.esri.com/en-us/webinars/industry/education/strategies-for-integrating-thoughtful-ai-into-gis-teaching-and-learning. The recording will later become available at: https://community.esri.com/en/discussion/1722141/geospatial-ai-in-education-applying-pre-trained-models-and-embeddings. Here are some associated resources that were shared during the webinar:
-   * x
-   * x
-   * 
+   * [](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/an-introduction-to-embeddings-for-gis-analysts)
+   * [](https://community.esri.com/en/discussion/1675534/how-to-get-started-with-ai-tools-and-models-in-arcgis-a-practical-guide-for-students)
+   * [](https://community.esri.com/en/discussion/1713327/esri-higher-education-e-learning-guide-for-geospatial-ai)
    * **The Global Geospatial Workforce - State of the Workforce, the Skills Gap, and a Roadmap to 2030** [report](https://wgicouncil.org/the-global-geospatial-workforce-state-of-the-workforce-the-skills-gap-and-a-roadmap-to-2030/) from the [WGIC](https://wgicouncil.org/)
 
 <img width="831" height="368" alt="image" src="https://github.com/user-attachments/assets/28713df3-a641-40ae-90ad-e0f6b9538739" />
