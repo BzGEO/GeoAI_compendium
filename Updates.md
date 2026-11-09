@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 09.11.2026
-1. Esri Press recently published the following book, which thus far appears much more practical than their earlier GeoAI [book](https://www.esri.com/en-us/esri-press/browse/geoai-artificial-intelligence-in-gis): [**Exploring GeoAI: Tools and Workflows**](https://www.esri.com/en-us/esri-press/browse/exploring-geoai-tools-and-workflows). The book is also available from [Amazon](https://www.amazon.com/Exploring-GeoAI-Workflows-Ismael-Chivite/dp/158948908X/).
+1. Esri Press recently published the following book (*which thus far appears much more practical than their earlier GeoAI [book](https://www.esri.com/en-us/esri-press/browse/geoai-artificial-intelligence-in-gis)*): [**Exploring GeoAI: Tools and Workflows**](https://www.esri.com/en-us/esri-press/browse/exploring-geoai-tools-and-workflows); the book is also available from [Amazon](https://www.amazon.com/Exploring-GeoAI-Workflows-Ismael-Chivite/dp/158948908X/).
 
 <img width="344" height="424" alt="image" src="https://github.com/user-attachments/assets/c2c3558c-19db-48cf-9b0b-5a6ff42f2a76" />
 
