@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 09.11.2026
+1. Esri Press recently published the following book, which thus far appears much more practical than their earlier GeoAI book: []().
+
 ## Updates: 05.11.2026
 1. Today, Esri is hosting a webinar on **Geospatial AI in Education: Applying Pre-Trained Models and Embeddings**. For details, see: https://www.esri.com/en-us/webinars/industry/education/strategies-for-integrating-thoughtful-ai-into-gis-teaching-and-learning. The recording will later become available at: https://community.esri.com/en/discussion/1722141/geospatial-ai-in-education-applying-pre-trained-models-and-embeddings. Here are some associated resources that were shared during the webinar:
    * [An Introduction to Embeddings for GIS Analysts](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/an-introduction-to-embeddings-for-gis-analysts)
