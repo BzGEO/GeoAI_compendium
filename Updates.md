@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 10.11.2026
-1. Yesterday, Esri published the following blog post: [**What's new in geospatial AI (November 2026)**](https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026).
+1. Yesterday, [Esri](https://www.esri.com) published the following blog post: [**What's new in geospatial AI (November 2026)**](https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026).
 2. On 1 December 2026, Esri will be holding a webinar on [**AI-Assisted Coding in ArcGIS: Building Tools and Applications with Third-Party LLMs**](https://community.esri.com/en/discussion/1721572/december-2026-ai-assisted-coding-in-arcgis-building-tools-and-applications-with-third-party-llms).
 
 ## Updates: 09.11.2026
