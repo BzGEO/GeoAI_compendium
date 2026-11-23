@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 23.11.2026
+1. While ArcGIS Pro version 3.8 is now available for download, as documented in the following [issue](https://github.com/Esri/deep-learning-frameworks/issues/132), the accompanying Deep Learning Frameworks for v3.8 are not yet available as of the morning of Monday, 23 Nov. 2026.
+
 ## Updates: 22.11.2026
 1. Esri just released ArcGIS Pro version 3.8. More is to follow.
 
