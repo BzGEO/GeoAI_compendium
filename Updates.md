@@ -5,6 +5,11 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 24.11.2026
+1. I finally got around to providing reviews for the following two Esri geospatial AI books that I have purchased in the last ~year:
+   * [GeoAI: Artificial Intelligence in GIS](https://www.amazon.com/review/R138OIG61SO0RN/ref=pe_123899240_1043597390_SRTC_02_04_BT_99_cm_rv_eml_rv0_rv)
+   * [Exploring GeoAI: Tools and Workflows](https://www.amazon.com/dp/158948908X)
+
 ## Updates: 23.11.2026
 1. [**ArcGIS Pro version 3.8**](https://community.esri.com/en/discussion/1722436/arcgis-pro-3-8-is-here-learn-whats-new-and-enhanced) is now available for download, as is the [3.8.1 patch](https://support.esri.com/en-us/patches-updates/2026/arcgis-pro-3-8-patch-1-3-8-1-announcement). However, as documented in the following [issue](https://github.com/Esri/deep-learning-frameworks/issues/132), the accompanying [**Deep Learning Frameworks**](https://github.com/Esri/deep-learning-frameworks) for v3.8 are not yet available as of the morning of Monday, 23 Nov. 2026. ➡️ Shaun Walbridge of Esri has indicated in a [response](https://github.com/Esri/deep-learning-frameworks/issues/132#issuecomment-7107462747) to the issue that the Deep Learning Frameworks will likely be released by next week.
 
