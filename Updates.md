@@ -11,7 +11,7 @@
 ## Updates: 22.11.2026
 1. Esri recently released **ArcGIS Pro version 3.8**. See:
    * [Documentation](https://doc.esri.com/en/arcgis-pro/latest/get-started/whats-new-in-arcgis-pro.html)
-   * [Blog post](https://community.esri.com/en/discussion/1722436/arcgis-pro-3-8-is-here-learn-whats-new-and-enhanced)
+   * [Blog post](https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/whats-new-and-enhanced-in-arcgis-pro-november-2026)
    * [Video](https://www.youtube.com/watch?v=rBH7TvJ-KcE)
 
 ## Updates: 10.11.2026
