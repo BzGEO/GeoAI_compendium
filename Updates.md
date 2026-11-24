@@ -9,7 +9,9 @@
 1. [**ArcGIS Pro version 3.8**](https://community.esri.com/en/discussion/1722436/arcgis-pro-3-8-is-here-learn-whats-new-and-enhanced) is now available for download, as the the [3.8.1 patch](https://support.esri.com/en-us/patches-updates/2026/arcgis-pro-3-8-patch-1-3-8-1-announcement). However, as documented in the following [issue](https://github.com/Esri/deep-learning-frameworks/issues/132), the accompanying Deep Learning Frameworks for v3.8 are not yet available as of the morning of Monday, 23 Nov. 2026. ➡️ Shaun Walbridge of Esri has indicated in a [response](https://github.com/Esri/deep-learning-frameworks/issues/132#issuecomment-7107462747) to the issue that the Deep Learning Frameworks will likely be released by next week.
 
 ## Updates: 22.11.2026
-1. Esri recently released **ArcGIS Pro version 3.8**. More is to follow.
+1. Esri recently released **ArcGIS Pro version 3.8**. See:
+   * [Blog post](https://community.esri.com/en/discussion/1722436/arcgis-pro-3-8-is-here-learn-whats-new-and-enhanced)
+   * [Video](https://www.youtube.com/watch?v=rBH7TvJ-KcE)
 
 ## Updates: 10.11.2026
 1. Yesterday, [Esri](https://www.esri.com) published the following blog post: [**What's new in geospatial AI (November 2026)**](https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-geospatial-ai-november-2026).
