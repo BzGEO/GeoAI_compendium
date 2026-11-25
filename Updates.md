@@ -5,7 +5,7 @@
 
 <!-- []() (*source: x, 2026*) -->
 
-## Updates: 24.11.2026 
+## Updates: 24.11.2026
 1. I finally got around to providing reviews for the following two Esri geospatial AI books that I have purchased in the last ~year:
    * [**GeoAI: Artificial Intelligence in GIS**](https://www.amazon.com/review/R138OIG61SO0RN/ref=pe_123899240_1043597390_SRTC_02_04_BT_99_cm_rv_eml_rv0_rv)
    * [**Exploring GeoAI: Tools and Workflows**](https://www.amazon.com/dp/158948908X)
